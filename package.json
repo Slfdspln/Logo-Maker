@@ -1,0 +1,22 @@
+{
+  "name": "logo-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "node": "^20.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
