@@ -1,5 +1,5 @@
-# <h1 align="center">logo-maker</h1>
-
+# <h1 align="center">Logo-Maker</h1>
+Week-10 Challenge
 <h2> Live Screen Recording of Application Functionality </h2>
 https://drive.google.com/file/d/1833SYkvuG8B2m24mdbQBHrW7q9xDsov1/view
 
