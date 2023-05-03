@@ -1,17 +1,19 @@
 {
-  "name": "logo-maker",
+  "name": "svg-logo-maker",
   "version": "1.0.0",
+  "description": "Week-10 Challenge",
   "main": "index.js",
   "directories": {
+    "example": "examples",
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "bugs": "",
   "dependencies": {
     "inquirer": "^8.2.4",
     "node": "^20.0.0"
