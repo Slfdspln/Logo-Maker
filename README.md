@@ -29,6 +29,10 @@ This app empowers freelance web developers to create custom logos without hiring
           
 *  [License](#License)
           <a name="License"></a> 
+         
+*  [Questions](#Questions)
+          <a name="Questions"></a> 
+          
 
 
  
@@ -81,8 +85,7 @@ NOTICE: This application is covered under the MIT License
 
 Need more information? You can contact me through my LinkedIn or Email. Links provided below.
 
+Click for LinkedIn -> [LinkedIn](mailto:inaliaashanti@gmail.com?subject=[Email]%20Source%20Han%20Sans)
+
 Click to Email -> [Email](https://www.google.com)
-
-
-Click for Email -> [LinkedIn](mailto:inaliaashanti@gmail.com?subject=[Email]%20Source%20Han%20Sans)
 
