@@ -4,8 +4,9 @@ Week-10 Challenge
 This app empowers freelance web developers to create custom logos without hiring a graphic designer. It uses inquirer to prompt users for logo preferences, such as up to three characters of text, text color, and shape (triangle, square, or circle) with a corresponding color. After answering the prompts, the app generates an SVG file with the user's selections. I also implemented unit testing for the first time, with a test suite consisting of three tests to ensure accurate shapes and colors. This app showcases the potential of back-end developers and the importance of unit testing, even for small projects. I added minor error handling for the first prompt, limiting text input to three characters. Future improvements could include additional error handling for SVG colors, more unit tests, and expanded font and polygon options. All in all, creating this app was a valuable learning experience that further developed my developer mindset.
 ## Table of Contents
 
-[ installation ]  (#install) 
-
+ Markup : *
+ 
+ 
 ##  Live Screen Recording of Application Functionality 
 https://drive.google.com/file/d/1833SYkvuG8B2m24mdbQBHrW7q9xDsov1/view
 
