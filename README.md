@@ -7,7 +7,7 @@ This app empowers freelance web developers to create custom logos without hiring
 * Bullet list [Description](#Description)
           <a name="Screenshots"></a>  
 
-[Screenshots](#Screenshots)
+* Bullet list [Screenshots](#Screenshots)
           <a name="Screenshots"></a>    
  
 ##  Live Screen Recording of Application Functionality 
