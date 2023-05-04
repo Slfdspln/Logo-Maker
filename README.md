@@ -27,4 +27,5 @@ Examples of Generated Logos
 ## Technologies Used
 This project utilizes Node.js v16, inquirer v8.2.4 (node package manager), and file system module (node package manager), as well as jest v29.5.0 (node package manager) for conducting unit testing.
 ## Installation
-1. Clone the repo: git clone 
+
+1. Clone the repo: git clone git@github.com:Slfdspln/logo-maker.git
