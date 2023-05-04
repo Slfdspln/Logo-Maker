@@ -15,16 +15,16 @@ This app empowers freelance web developers to create custom logos without hiring
 *  [Screenshots](#Screenshots)
           <a name="Screenshots"></a>
    
-*  [Technologies-Used](#Technologies Used)
+*  [Technologies-Used](#Technologies-Used)
           <a name="Technologies Used"></a> 
           
 *  [Installation](#Installation)
           <a name="Installation"></a> 
     
-*  [Usage-Information](#Usage Information)
+*  [Usage-Information](#Usage-Information)
           <a name="Usage Information"></a>  
         
-*  [Test-Instructions](#Test Instructions) 
+*  [Test-Instructions](#Test-Instructions) 
           <a name="Test Instructions"></a> 
           
 *  [License](#License)
