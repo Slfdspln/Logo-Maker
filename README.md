@@ -24,6 +24,7 @@ Examples of Generated Logos
 <img width="623" alt="Screenshot 2023-05-03 at 5 31 20 PM" src="https://user-images.githubusercontent.com/121422214/236079419-ba090c98-022d-4f75-b76e-677a9c3126f2.png">
 <img width="362" alt="Screenshot 2023-05-03 at 5 33 44 PM" src="https://user-images.githubusercontent.com/121422214/236079587-1c8c93db-abee-43b7-b860-fe5b61e12ea1.png">
 <img width="327" alt="Screenshot 2023-05-03 at 5 36 09 PM" src="https://user-images.githubusercontent.com/121422214/236079906-4106014d-85ed-4008-8f1a-abd9ff592793.png">
+
 ## Technologies Used
 
 This project utilizes Node.js v16, inquirer v8.2.4 (node package manager), and file system module (node package manager), as well as jest v29.5.0 (node package manager) for conducting unit testing.
