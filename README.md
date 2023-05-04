@@ -81,4 +81,8 @@ NOTICE: This application is covered under the MIT License
 
 Need more information? You can contact me through my LinkedIn or Email. Links provided below.
 
-Click to Email -> [Cristal Rivera](mailto:inaliaashanti@gmail.com?subject=[Email]%20Source%20Han%20Sans)
+Click to Email -> [Email](https://www.google.com)
+
+
+Click for Email -> [LinkedIn](mailto:inaliaashanti@gmail.com?subject=[Email]%20Source%20Han%20Sans)
+
